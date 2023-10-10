@@ -1,0 +1,10 @@
+import turtle
+kaks = turtle.Turtle()
+kaks.right(60)
+kaks.forward(150)
+kaks.left(120)
+kaks.forward(150)
+kaks.left(60)
+kaks.forward(150)
+kaks.left(120)
+kaks.forward(150)
